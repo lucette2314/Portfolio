@@ -1,0 +1,75 @@
+label {
+    color:rgb(51, 18, 5);
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1{ 
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(17, 17, 34);
+}
+.about{
+    background-color: black;
+    border-radius:20px;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 45px;
+    
+}
+
+input {
+    background-color: rgb(201, 187, 190);
+    border-radius: 100px;
+    padding: 10px;
+    width: 550px;
+}
+#submit {
+    cursor: pointer;
+    background-color:rgb(143, 143, 167);
+    border-radius: 100px;
+    width: 550px; 
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(17, 17, 34);
+}
+
+body {
+    background-image: url("panama.jpg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 100% 180%;
+}
+
+.link {
+    font-size: 25xp;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(215, 230, 245);
+    font-weight: bold;
+}
+.box {
+ align-content: left;
+}
+
+.pass {
+    color:rgb(51, 18, 5);
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    border-radius: 15px;
+    padding: 15px;
+    background-color: grey;
+    border-color: black;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-left: 1000px;
+}
+
+  
